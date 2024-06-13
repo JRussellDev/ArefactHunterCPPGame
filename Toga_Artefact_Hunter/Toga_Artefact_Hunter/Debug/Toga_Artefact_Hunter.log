@@ -1,0 +1,10 @@
+﻿  Enemy.cpp
+  Game.cpp
+  LivingEntity.cpp
+  Player.cpp
+  Toga_Artefact_Hunter.cpp
+  Weapon.cpp
+  Generating Code...
+F:\Uni\TOGA\Toga_Artefact_Hunter\Toga_Artefact_Hunter\Player.cpp(99): warning C4715: 'Player::ShouldReplaceWeapon': not all control paths return a value
+F:\Uni\TOGA\Toga_Artefact_Hunter\Toga_Artefact_Hunter\Game.cpp(212): warning C4715: 'Game::DecidePath': not all control paths return a value
+  Toga_Artefact_Hunter.vcxproj -> F:\Uni\TOGA\Toga_Artefact_Hunter\Debug\Toga_Artefact_Hunter.exe
